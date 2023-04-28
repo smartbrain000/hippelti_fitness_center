@@ -1,0 +1,25 @@
+SISTEM INFORMASI MANAJEMEN HIPPELTI FITNESS CENTER
+oleh : IRNA SRI NULINGGA
+
+= BUAT FOLDER pada HTDOCS dengan nama Hippelti 
+	Simpan semua file project di folder Hippelti
+
+= IMPORT DATABASE ======
+	buat database dengan nama : db_hippelti
+	buka database db_hippelti
+	import file sql yang terdapat pada folder database
+		import file db_hippelti.sql yang ada pada folder database
+
+= Akses Login
+	buka http://localhost/Hippelti/Auth
+	anda akan diarahkan ke halaman login sistem
+	Login sebagai Admin
+		username : admin
+		password : admin
+	Login sebagai Member
+		username : member
+		password : member
+	
+By @radh_nacl
+Andi Alfian
+2023-03-05
