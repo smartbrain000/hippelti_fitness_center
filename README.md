@@ -6,7 +6,7 @@ Sistem Informasi Manajemen Hippelti Fitness Center Desa Weragati adalah sistem i
 - Manajemen Keuangan Pemasukan dan Pengeluaran, disertai cetak laporannya.
 - Posting informasi alat fitness disertai status dari alat tersebut.
 - Tersedia Kolom Komentar.
-- Fitur registrasi & metode pembayaran online.
+- Fitur registrasi & metode pembayaran online dengan paymen gateway Midtrans.
 
 ## Hasil yang telah dicapai : 
 - Sistem ini telah digunakan Irna Sri Nulingga sebagai project pada mata kuliah Kerja Praktek.
