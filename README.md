@@ -12,7 +12,7 @@ Sistem Informasi Manajemen Hippelti Fitness Center Desa Weragati adalah sistem i
 - Sistem ini telah digunakan Irna Sri Nulingga sebagai project pada mata kuliah Kerja Praktek.
 - Sistem ini telah di bahas dan di tulis dalam sebuah jurnal, sebagai tugas / syarat menjadi pemakalah Irna Sri Nulingga.
 - Jurnal tersebut sudah di publish, dan untuk link nya :  [Perancangan Sistem Informasi Membership Hippelti Fitness Center Menggunakan QR Code Berbasis Web](http://ojs.udb.ac.id/index.php/Senatib/article/download/1807/1424) .
-- Sistem ini kemudian dikembangkan oleh Irna Sri Nulingga dan dijadikan project pada mata kuliah Tugas Akhir sebagai syarat kelulusan kuliah S1 Informatika di Universitas Majalengka. 
+- Sistem ini kemudian dikembangkan oleh Irna Sri Nulingga dan dijadikan project pada mata kuliah Tugas Akhir sebagai syarat kelulusan kuliah S1 Informatika di [Universitas Majalengka](https://unma.ac.id/). 
 
 ## Quickstart :
 - (Jika di local) Ubah nama folder dengan 'Hippelti'.
