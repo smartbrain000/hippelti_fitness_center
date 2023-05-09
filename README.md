@@ -1,5 +1,5 @@
 # hippelti_fitness_center
-Sistem Informasi Manajemen Hippelti Fitness Center Desa Weragati adalah sistem informasi manajemen yang dibuat dan dikembangkan oleh <b>Irna Sri Nulingga</b> dengan menggunakan framework CodeIgniter 3, untuk tampilan frontEnd-nya menggunakan Bootstrap dan untuk tampilan backEnd-nya menggunakan [AdminLTE 3](https://github.com/ColorlibHQ/AdminLTE), sistem ini memiliki fitur  : <br>
+Sistem Informasi Manajemen Hippelti Fitness Center adalah sistem informasi manajemen yang dibuat dan dikembangkan oleh <b>Irna Sri Nulingga</b> dengan menggunakan framework CodeIgniter 3, untuk tampilan frontEnd-nya menggunakan Bootstrap dan untuk tampilan backEnd-nya menggunakan [AdminLTE 3](https://github.com/ColorlibHQ/AdminLTE), sistem ini memiliki fitur  : <br>
 - Pengelolaan Data Anggota.
 - Boking Jadwal Online.
 - Cek kehadiran anggota dengan scan QR-Code.
