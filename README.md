@@ -15,10 +15,10 @@ Sistem Informasi Manajemen Hippelti Fitness Center Desa Weragati adalah sistem i
 - Sistem ini kemudian dikembangkan oleh Irna Sri Nulingga dan dijadikan project pada mata kuliah Tugas Akhir sebagai syarat kelulusan kuliah S1 Informatika di Universitas Majalengka. 
 
 ## Quickstart :
-- Buat folder dengan nama 'Hippelti'.
-- Simpan semua file project di folder tersebut.
-- Buat database dengan nama 'db_hippelti'.
+- (Jika di local) Ubah nama folder dengan 'Hippelti'.
+- (Jika di local) Buat database dengan nama 'db_hippelti'.
 - Import file db_hippelti.sql yang ada pada folder database.
+- (Jika di Hosting) Ubah base_url pada file config.php dan nama database pada file database yang berada di folder Application/config.
 - Akses Login : <br>
 		Sebagai Admin <br>
 			username : admin <br>
